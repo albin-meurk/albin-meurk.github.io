@@ -1,0 +1,118 @@
+body{ 
+  background-color: rgb(160, 193, 255);
+}
+.titel{
+    color:blue;
+    font-family: 'Courier New', monospace;
+    line-height: 25px;
+    text-align: center;
+    margin-right: 550px;
+    background-color: rgb(17, 17, 85);
+    padding: 7px;
+    padding-left: 1px;
+    padding-right: 1px;
+    
+}
+.form-knapp {
+    text-align: center;
+    color:rgb(1, 1, 117);
+    background-color: rgb(158, 158, 235);
+    font-family:Arial;
+    border-width: 2;
+    border-style: solid;
+    border-color: rgb(1, 1, 117);
+    margin-right: 990px;
+    margin-top: -8px;
+    
+    
+}
+p {
+    margin-right: 600px;
+   color:#000b70;
+    font-family:Arial;
+    line-height: 21px;
+    text-align: left;
+}
+
+div.bild1 {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    top: 0; 
+  }
+
+  div.bild2 {
+position: fixed;
+bottom:1;
+left:0;
+bottom:0;
+  }
+  div.bild3 {
+    position: fixed;
+    bottom:1;
+    right:0;
+    bottom:0;}
+
+    div.bild4 {
+      position: fixed;
+    bottom:1;
+    right:0;
+    bottom:0;
+    margin-right: 201px;
+    }
+    
+
+div.form2 {
+margin-left: 200px;
+margin-top: -100px;
+}
+
+div.form3 {
+  margin-left: 400px;
+  margin-top: -80px;
+}
+div.form4 {
+  margin-left:500px;
+  margin-top: -60px;
+}
+
+div.form5{
+
+  margin-left: 500px;
+  margin-top: 15px;
+}
+.hockey-knapp {
+  text-align: center;
+    color:rgb(1, 1, 117);
+    background-color: rgb(158, 158, 235);
+    font-family:Arial;
+    border-width: 2;
+    border-style: solid;
+    border-color: rgb(1, 1, 117);
+    margin-right: 750px;
+    margin-left: 200px;
+}
+
+.fotboll-knapp{
+  text-align: center;
+    color:rgb(1, 1, 117);
+    background-color: rgb(158, 158, 235);
+    font-family:Arial;
+    border-width: 2;
+    border-style: solid;
+    border-color: rgb(1, 1, 117);
+    margin-right: 750px;
+    margin-left: 200px;
+}
+
+.wiki-knapp{
+  text-align: center;
+    color:rgb(1, 1, 117);
+    background-color: rgb(158, 158, 235);
+    font-family:Arial;
+    border-width: 2;
+    border-style: solid;
+    border-color: rgb(1, 1, 117);
+    margin-right: 750px;
+    margin-left: 200px;
+}
